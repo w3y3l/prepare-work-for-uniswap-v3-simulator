@@ -7,9 +7,7 @@ Uniswp V3 usdc/wethpool contract ：0x88e6A0c2dDD26FEEb64F039a2c41296FcB3f5640�
 
 
 ### Uniswap V3 abi
-factory abi；
-SwapRouter abi；
-pool abi；
+all abi from the V3 Core contract
 ### uniswap contract sol
 factory sol；
 SwapRouter sol；
